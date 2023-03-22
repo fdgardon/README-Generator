@@ -12,4 +12,4 @@ GIVEN a command-line application that accepts user input. WHEN I am prompted for
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the video link. Or, download the sources files to use this as a template.
 
-Check my work - Click!
+Check my work - Click! https://youtu.be/S3mVt2srq90
